@@ -1,4 +1,4 @@
-module github.com/inforix/cas
+module github.com/inforix/cas-client-go
 
 go 1.12
 
